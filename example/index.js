@@ -15,5 +15,3 @@ const searching = require('../lib');
 
   console.log(`Time: ${(ending - starting) / 1000} seconds`);
 })();
-
-

@@ -2,7 +2,7 @@
   "name": "search-on-screen",
   "version": "1.0.1",
   "description": "Buscar referencia(imagen) en pantalla",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
